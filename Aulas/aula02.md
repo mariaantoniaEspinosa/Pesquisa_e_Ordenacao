@@ -23,4 +23,4 @@
     - O(log n + n): logaritmo
     - O(n): linear (desejado)
     - o(log n) - MENOR complexidade 
-    
+- Algoritmo estável: quando a estrutura é desordenada até chegar na ordenação   
