@@ -18,9 +18,9 @@
       - Ordenação: quantidade de comparações + quantidade de trocas
       - Pesquisa: quantidade de comparações
   - Notação **Big O**:
-    - O(n!): fatorial (pior de todas) - MAIOR complexidade
+    - O(n!): fatorial (pior de todas) - MAIOR complexidade | esforço
     - O(n^x): exponencial 
     - O(log n + n): logaritmo
     - O(n): linear (desejado)
-    - o(log n) - MENOR complexidade 
-- Algoritmo estável: quando a estrutura é desordenada até chegar na ordenação   
+    - o(log n) - MENOR complexidade | esforço
+- Algoritmo estável: quando a estrutura é desordenada até chegar na ordenação  | bagunça 
