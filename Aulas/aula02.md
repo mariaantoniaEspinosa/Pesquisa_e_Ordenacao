@@ -1,0 +1,13 @@
+## Conceitos Iniciais
+- Ordenar: organizar uma estrutura (lista ou vetor) a partir de um ou mais índices ou chaves
+  - por que ordenar? para otimizar a busca ou pesquisa
+- Pesquisar: localizar ou buscar um dado dentro de uma estrutura via alguma chave
+- Recuperar: 
+- *obs*:
+  - Search: busca | localizar
+  - Retrive: localizar ou buscar com **relevancia** | buscador da Google
+  - CRUD:
+    - Create
+      - Retrieve (aqui é o search)
+        - Update
+          - Delete
