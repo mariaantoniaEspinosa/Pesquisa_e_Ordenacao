@@ -2,12 +2,25 @@
 - Ordenar: organizar uma estrutura (lista ou vetor) a partir de um ou mais índices ou chaves
   - por que ordenar? para otimizar a busca ou pesquisa
 - Pesquisar: localizar ou buscar um dado dentro de uma estrutura via alguma chave
-- Recuperar: 
+- Recuperar: localizar ou buscar dados com relevância (semântica ou significado)
 - *obs*:
   - Search: busca | localizar
-  - Retrive: localizar ou buscar com **relevancia** | buscador da Google
+  - Retrive: localizar ou buscar com **relevância** | buscador da Google
   - CRUD:
     - Create
       - Retrieve (aqui é o search)
         - Update
           - Delete
+- Complexidade de um algoritmo: é o esforço computacional de um algoritmo, ou seja, quanto de recurso ele aloca para realizar sua ou suas tarefas
+  - Alta complexidade: mais esforço
+  - Baixa complexidade: menos esforço
+    - Como medir a complexidade?
+      - Ordenação: quantidade de comparações + quantidade de trocas
+      - Pesquisa: quantidade de comparações
+  - Notação **Big O**:
+    - O(n!): fatorial (pior de todas) - MAIOR complexidade
+    - O(n^x): exponencial 
+    - O(log n + n): logaritmo
+    - O(n): linear (desejado)
+    - o(log n) - MENOR complexidade 
+    
