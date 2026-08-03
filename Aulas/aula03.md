@@ -1,5 +1,7 @@
 - Códigos a partir da aula de hoje devem seguir o padrão arquitetural
 # Conceitos e fundamentos
+ - O que é ordenar? organizar uma estrutura de dados (cresc ou decresc) usando uma ou mais chaves de controles (variáveis)
+ - Por que ordenar? porque estruturas ordenadas tem a busca ou a pesquisa mais eficiente, devido aos algoritmos baseados em árvores 
  - Categorias de ordenação para os algoritmos:
    - memória interna ou memória externa
    - estabilidade do algoritmo
