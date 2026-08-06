@@ -61,3 +61,10 @@
     tempoFim = clock();
     cout << "Tempo para rotina 1: "<< (float)(tempoFim - tempoInicio)/CLOCKS_PER_SEC << endl;
 ````
+# Atividade 
+## MedicaoModel.java
+- É a classe que calcula o tempo e preenche a lista com *Random* ou de forma sequencial;
+## MedicaoView.java
+- É a classe que contém os System.out.println, ela recebe os dados puros e formata na tela com textos como "Tempo (ms) rotina1: ";
+## MedicaoController.java
+- União da Visão ao Modelo, chama model.executarRotina(...) para obter os tempos de execução e, logo em seguida, passa esse resultado para view.exibirTempoRotina(...);
