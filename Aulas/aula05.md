@@ -80,3 +80,26 @@ void insercao(List<int> lista)
 - Depende
   - Tamanho
   - Grau de Ordenação
+## MVC
+- <<package>> Model
+  - utilidades
+  - popular.Lista(...)
+- <<package>>  View
+  - ListaView
+  - exibirLista(...)
+  - exibirTempo(...)
+- <<package>> Controller
+  - ListaController
+  - listaBolha
+  - listaSelecao
+  - listaInsercao
+  - popularListaBolha
+  - popularListaSelecao
+  - popularListaInsercao
+  - ?.bolha(listaBolha)
+  - ?.selecao(listaSelecao)
+  - ?.insercao(listaInsercao)
+- Classe Ordenada (ficará onde??)
+  - bolha(...)
+  - selecao(...)
+  - insercao(...)
