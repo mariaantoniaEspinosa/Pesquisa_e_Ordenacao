@@ -52,4 +52,5 @@ void agitacao(List<> lista) {
     } while (houveTroca);
 }
 ````
-
+### Atividade
+- Levar o Agitação para o MVC, inserir Bolha, inserção, seleção, sort nativo da linguagem
