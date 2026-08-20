@@ -23,3 +23,4 @@
   - 3/1.3= 2
   - 2/1.3= 1
   - 1/1.3= 1 (divisão quando der Zero seguirá valendo Um para seguir no método Bolha)
+- **Decorar o Pente**
