@@ -8,3 +8,18 @@
           - Diminui as trocas 
 - Seleção → Instável
 - Inserção → Estável 
+## Pente 
+- → Instável
+- Memória Principal
+- O(n^2)
+- dist = dist/1.3;
+  - n = 10;
+  - dist = n;
+- Parar quando o *Pente* virar *Bolha* e não houver mais trocas
+- Exemplo:
+  - 10/1.3= 7
+  - 7/1.3= 5
+  - 5/1.3= 3
+  - 3/1.3= 2
+  - 2/1.3= 1
+  - 1/1.3= 1 (divisão quando der Zero seguirá valendo Um para seguir no método Bolha)
