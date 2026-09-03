@@ -12,16 +12,22 @@
 ## Aula 12 
 - **Métodos de Baixa complexidade, porém "difíceis" de implementar**
 ### MERGE
-- Intercalar
+- Intercalar: empilhamento
 - Recursivo
 - Composto por 2 métodos:
   - merge → recursivo
-  - intercalar → ordenar no retorno do "empilhamento"
+  - divide homogeneamente 
+  - intercalar → ordenar no retorno do "empilhamento" → no processo de intercalação
+- Ordenação se dá na volta da recursão
+- Pra baixo vai dividindo por 2, pra cima vai intercalando
+- Complexidade: O(n. log n)
 - OBS: O processo é baseado em divisões da estrutura recursivamente, sempre no meio
 ### QUICKSORT
-- pivo
+- pivo: quem é ordenado
 - recursivo
 - Composto por 2 métodos:
   - quick → recursivo
   - posicionar → ordenar o pivo
+- Complexidade: O(n. log n)
 - OBS: O processo é baseado em divisões da estrutura recursivamente, porém obedecendo a posição do pivo
+### AlgoRythmics: vídeos tutoriais sobre os algoritmos 
