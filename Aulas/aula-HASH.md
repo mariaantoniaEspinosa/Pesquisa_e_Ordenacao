@@ -33,4 +33,14 @@
   - tabela hash é ESPALHAMENTO
   - existe um cálculo de endereçamento que coloca no mesmo lugar e busca no mesmo lugar
   - **pesquisar a diferença de Hash MAP pra Hash SET, com exemplos**
-  - tabela hash NÃO TEM ÍNDICE 
+  - tabela hash NÃO TEM ÍNDICE
+### Desafio semestral de HashMap
+- Construir um programa em Java, C# ou Python que:
+  1) armazene em um HashMap o dados do arquivo telephony.sessions.txt, usando como classe a classe implementada em Sessao.java
+     - ler o arquivo
+     - splitar as linhas
+     - adicionar na classe
+     - criar um objeto do tipo Sessao
+     - adicionar (put) no HashMap
+2) permite procurar um número de celular e o retorno seja os dados da sessão
+3) DESAFIO: pesquise sobre uso de threads e tente procurar N celulares ao mesmo tempo
