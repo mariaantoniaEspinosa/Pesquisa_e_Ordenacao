@@ -14,4 +14,18 @@
 
 - Há somente dois métodos de rotação/giro
     - rodar/girar para esquerda -> quando -2
-    - rodar/girar para direitoa -> quando +2
+    - rodar/girar para direita -> quando +2
+
+  - Métodos
+    - rodar direita: raiz vira filho do filho da direita
+    - rodar esquerda: raiz vira filho do filho da esquerda
+
+  - Tipos de rotação
+    - simples:
+      - fbPai == - && fbFilho == -
+      - fbPai == + && fbFilho == +
+    - dupla:
+      - fbPai == - && fbFilho == +
+      - fbPai == + && fbFilho == -    
+
+- O AVL é ativado no inserir 
